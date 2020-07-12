@@ -6,4 +6,10 @@ dagger
 room
 retrofit
 viewmodel
+sharedpreferences
+pattern repository
+recyclerview
+
+
+
 
