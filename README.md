@@ -2,14 +2,14 @@ Android_kotlin
 =========================
 Sunshine MVVM
 -----------------------
-dagger __
-room __
-retrofit __
-viewmodel __
-sharedpreferences __
-pattern repository __
-recyclerview __
-kotlin_ext __
+dagger <br/>
+room <br/>
+retrofit <br/>
+viewmodel <br />
+sharedpreferences <br/>
+pattern repository <br/>
+recyclerview <br/>
+kotlin_ext <br/>
 
 
 
