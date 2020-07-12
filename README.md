@@ -10,7 +10,8 @@ sharedpreferences <br/>
 pattern repository <br/>
 recyclerview <br/>
 kotlin_ext <br/>
-workmanager
+workmanager <br/>
+kotlinx-coroutines
 
 
 
